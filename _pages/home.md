@@ -77,11 +77,11 @@ This workshop will be a hybrid event held in conjunction with [IJCAI 2024](https
 
 We would like to express our sincere gratitude to our technical program committee for generously volunteering their time and expertise to review submissions for our workshop. Their valuable contributions have been instrumental in ensuring the quality and rigor of the workshop's program. We deeply appreciate their dedication and commitment to our workshop's success:
 
-TBA
+Manish Nagireddy, Jesus Rios Aliaga, Miao Liu
 
 # Contact
 
-For any questions, please contact us at TBA.
+For any questions, please contact us at bl2681@columbia.edu.
 
 # Sponsors
 
