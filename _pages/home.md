@@ -7,7 +7,7 @@ nav_title: Home
 permalink: /
 description: A workshop which aims to delve into the critical aspects of AI governance with a specific focus on the contribution of Large Language Models (LLMs) in shaping ethical and responsible AI practices.
 ---
-<h5 style="text-align:center;"><a href="#">[Call for Reviewers]</a></h5>
+<h5 style="text-align:center;"><a href="https://forms.gle/yP7sNyrrdd2BbfmP6">[Call for Reviewers]</a></h5>
 <h5 style="text-align:center;"><a href="https://aigovernance.github.io/cfp/">[Call for Papers]</a></h5>
 
 # Introduction
@@ -32,7 +32,7 @@ In addition to insightful technical discussions, we also plan to hold introducto
 
 We believe that incorporating knowledge can potentially solve many of the most pressing challenges tackling the AI and society today. The primary goal of this workshop is to facilitate community building, as AI governance is a critical field with two distinct communities: policymakers crafting regulations and researchers/developers working on the technologies. The workshop aims to bring these communities together to foster collaboration and enhance understanding. The workshop aims to educate a broader community about the intricacies of AI governance. Through informative sessions and discussions, participants will gain a deeper understanding of the challenges posed by AI technologies and the need for effective governance.
 
-This workshop will be a hybrid event held in conjunction with [IJCAI 2024](https://ijcai24.org/), taking place on **Aug 3rd, 2024** at Jeju, South Korea and virtually. The session will cover invited talks, contributed talks, posters, and a panel discussion.
+This workshop will be a hybrid event held in conjunction with [IJCAI 2024](https://ijcai24.org/), taking place on **Aug 3rd, 2024** at Jeju, South Korea. The session will cover invited talks, contributed talks, posters, and a panel discussion.
 
 # Key Dates
 
