@@ -77,7 +77,7 @@ This workshop will be a hybrid event held in conjunction with [IJCAI 2024](https
 
 We would like to express our sincere gratitude to our technical program committee for generously volunteering their time and expertise to review submissions for our workshop. Their valuable contributions have been instrumental in ensuring the quality and rigor of the workshop's program. We deeply appreciate their dedication and commitment to our workshop's success:
 
-Manish Nagireddy, Jesus Rios Aliaga, Miao Liu
+Manish Nagireddy, Jesus Rios Aliaga, Miao Liu, Muneeza Azmat, Kinjal Basu, Nudrat Nida, Inas Bachiri, Sarathkrishna Swaminathan, and TBA
 
 # Contact
 
