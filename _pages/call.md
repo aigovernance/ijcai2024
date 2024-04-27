@@ -7,7 +7,7 @@ nav_order: 3
 ---
 # Key Dates
 
-* Submission deadline:  **Apr 26th, 2024 (11:59 pm AOE)**
+* Submission deadline: **~~April 26th, 2024~~** **May 10th, 2024 (11:59 pm AOE, FINAL EXTENSION)**
 * Acceptance notification: **June 5st, 2024**
 * Camera ready for accepted submissions: **June 15th, 2024**
 
