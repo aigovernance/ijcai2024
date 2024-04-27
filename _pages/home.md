@@ -56,7 +56,7 @@ This workshop will be a hybrid event held in conjunction with [IJCAI 2024](https
 
 <div class="row p-2 g-2">
       <div class="col-sm-3 p-1">
-      {% include people.html name="Baihan Lin" affiliation="Columbia University" url="https://www.neuroinference.com/" img="/assets/img/people/baihan_lin.jpg" %}
+      {% include people.html name="Baihan Lin" affiliation="Columbia University, Mount Sinai" url="https://www.neuroinference.com/" img="/assets/img/people/baihan_lin.jpg" %}
       </div>
       <div class="col-sm-3 p-1">
         {% include people.html name="Djallel Bouneffouf" affiliation="IBM Research" url="hhttps://www.researchgate.net/profile/Djallel-Bouneffouf" img="/assets/img/people/djallel_bouneffouf.png" %}
@@ -85,7 +85,8 @@ For any questions, please contact us at bl2681@columbia.edu.
 
 # Sponsors
 
-* IBM Research
 * Columbia University
+* Icahn School of Medicine at Mount Sinai
+* IBM Research
 * Mila - Quebec AI Institute
 * Fordham University
