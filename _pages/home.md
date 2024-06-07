@@ -37,8 +37,8 @@ This workshop will be a hybrid event held in conjunction with [IJCAI 2024](https
 # Key Dates
 
 * Submission deadline: **~~April 26th, 2024~~** **May 10th, 2024 (11:59 pm AOE, FINAL EXTENSION)**
-* Acceptance notification: **June 5st, 2024**
-* Camera ready for accepted submissions: **June 15th, 2024**
+* Acceptance notification: **June 8th, 2024**
+* Camera ready for accepted submissions: **June 20th, 2024**
 
 # Confirmed Keynote and Invited Speakers
 
