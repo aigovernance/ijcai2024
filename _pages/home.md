@@ -77,7 +77,7 @@ This workshop will be a hybrid event held in conjunction with [IJCAI 2024](https
 
 We would like to express our sincere gratitude to our technical program committee for generously volunteering their time and expertise to review submissions for our workshop. Their valuable contributions have been instrumental in ensuring the quality and rigor of the workshop's program. We deeply appreciate their dedication and commitment to our workshop's success:
 
-Manish Nagireddy, Jesus Rios Aliaga, Miao Liu, Muneeza Azmat, Kinjal Basu, Nudrat Nida, Inas Bachiri, Sarathkrishna Swaminathan, and TBA
+Sonali Son, Yohan Mathew, Arian Khorasani, Ashraf Abdul, Serge Stinckwich, Giandomenico Cornacchia, Jawad Haqbeen, Chi Xie, Xiaoxia Lei, Lisa Lehmann, Prithviraj (Raj) Dasgupta, Sray Agarwal, Moncef Garouani, Chemlal Yman, Imran Nasim, Fakhare Alam, Adnan Zaidi, Zahid Farid, Pengwei Li, Manish Nagireddy, Jesus Rios Aliaga, Miao Liu, Muneeza Azmat, Kinjal Basu, Nudrat Nida, Inas Bachiri, Sarathkrishna Swaminathan
 
 # Contact
 
