@@ -59,7 +59,7 @@ This workshop will be a hybrid event held in conjunction with [IJCAI 2024](https
         {% include people.html name="Moon Choi" affiliation="KAIST" url="https://stp.kaist.ac.kr/FacultyFull_time_Professor/view/id/18" img="/assets/img/people/moon_choi.jpg" %}
       </div>
       <div class="col-sm-3 p-1">
-        {% include people.html name="Andrew Clark" affiliation="Monitaur" url="https://stp.kaist.ac.kr/FacultyFull_time_Professor/view/id/18" img="/assets/img/people/andrew_clark.jpg" %}
+        {% include people.html name="Andrew Clark" affiliation="Monitaur" url="https://www.monitaur.ai/company" img="/assets/img/people/andrew_clark.jpg" %}
       </div>
   </div>
   <br>
