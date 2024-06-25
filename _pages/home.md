@@ -49,6 +49,18 @@ This workshop will be a hybrid event held in conjunction with [IJCAI 2024](https
       <div class="col-sm-3 p-1">
           {% include people.html name="Kartik Talamadupula" affiliation="Symbl.ai" url="http://www.ktalamad.com/" img="/assets/img/people/kartik_talamadupula.jpg" %}
       </div>
+      <div class="col-sm-3 p-1">
+        {% include people.html name="Djallel Bouneffouf" affiliation="IBM Research" url="hhttps://www.researchgate.net/profile/Djallel-Bouneffouf" img="/assets/img/people/djallel_bouneffouf.png" %}
+      </div>
+      <div class="col-sm-3 p-1">
+        {% include people.html name="Asim Munawar" affiliation="IBM Research" url="https://research.ibm.com/people/asim-munawar" img="/assets/img/people/asim_munawar.jpg" %}
+      </div>
+      <div class="col-sm-3 p-1">
+        {% include people.html name="Moon Choi" affiliation="KAIST" url="https://stp.kaist.ac.kr/FacultyFull_time_Professor/view/id/18" img="/assets/img/people/moon_choi.jpg" %}
+      </div>
+      <div class="col-sm-3 p-1">
+        {% include people.html name="Andrew Clark" affiliation="Monitaur" url="https://stp.kaist.ac.kr/FacultyFull_time_Professor/view/id/18" img="/assets/img/people/andrew_clark.jpg" %}
+      </div>
   </div>
   <br>
 
