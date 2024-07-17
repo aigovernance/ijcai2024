@@ -19,5 +19,3 @@ nav_order: 1
 | 16:00-16:30                        | Invited Talk (25 + 5 QA)     | Dr. Kartik Talamadupula  |
 | 16:30-17:00                        | Invited Talk (25 + 5 QA)     | Dr. Andrew Clark         |
 | 17:00-17:05                        | Closing                       |                          |
-| {: .table}                         |                               |                          |
-| {: .table-striped}                 |                               |                          |
