@@ -224,8 +224,8 @@ scholar:
   style: apa
   locale: en
 
-  source: /_bibliography/
-  bibliography: /ijcai2024/papers.bib
+  source: /ijcai2024/_bibliography/
+  bibliography: papers.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
@@ -235,7 +235,7 @@ scholar:
   replace_strings: true
   join_strings: true
 
-  details_dir: bibliography
+  details_dir: /ijcai2024/bibliography
   details_layout: bibtex.html
   details_link: Details
 
