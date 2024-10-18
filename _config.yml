@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-first_name: AIGOV @ IJCAI
+first_name: AIGOV @ IJCAI 2024
 last_name:
-title: AIGOV @ IJCAI # the website title (if blank, full name will be used instead)
+title: AIGOV @ IJCAI 2024 # the website title (if blank, full name will be used instead)
 email: bl2681@columbia.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   IJCAI 2024 Workshop on AI Governance.
@@ -224,7 +224,7 @@ scholar:
   style: apa
   locale: en
 
-  source: /ijcai2024/_bibliography/
+  source: /_bibliography/
   bibliography: papers.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
@@ -235,7 +235,7 @@ scholar:
   replace_strings: true
   join_strings: true
 
-  details_dir: /ijcai2024/bibliography
+  details_dir: bibliography
   details_layout: bibtex.html
   details_link: Details
 
